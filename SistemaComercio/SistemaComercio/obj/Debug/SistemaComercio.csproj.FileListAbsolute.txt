@@ -1,0 +1,16 @@
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\bin\Debug\SistemaComercio.exe.config
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\bin\Debug\SistemaComercio.exe
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\bin\Debug\SistemaComercio.pdb
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\bin\Debug\CamadaApresentacao.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\bin\Debug\CamadaApresentacao.pdb
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.csproj.AssemblyReference.cache
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.Properties.Resources.resources
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.csproj.GenerateResource.cache
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.csproj.CoreCompileInputs.cache
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\obj\Debug\SistemaC.303C23D6.Up2Date
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.exe
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.pdb
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\bin\Debug\CamadaNegocio.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\bin\Debug\CamadaDados.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\bin\Debug\CamadaNegocio.pdb
+C:\Users\LEONARDO\source\repos\SistemaComercio\SistemaComercio\bin\Debug\CamadaDados.pdb

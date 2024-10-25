@@ -1,0 +1,6 @@
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaDados\obj\Debug\CamadaDados.csproj.AssemblyReference.cache
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaDados\obj\Debug\CamadaDados.pdb

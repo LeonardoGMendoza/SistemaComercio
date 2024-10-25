@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3282AF58-37CE-4188-A26C-67FE374735AF}|CamadaApresentacao\\CamadaApresentacao.csproj|C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\camadaapresentacao\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3282AF58-37CE-4188-A26C-67FE374735AF}|CamadaApresentacao\\CamadaApresentacao.csproj|solutionrelative:camadaapresentacao\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A96A7-E2AF-4BF6-BA99-0B5E658A4425}|CamadaNegocio\\CamadaNegocio.csproj|c:\\users\\leonardo\\source\\repos\\sistemacomercio\\camadanegocio\\ncategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A96A7-E2AF-4BF6-BA99-0B5E658A4425}|CamadaNegocio\\CamadaNegocio.csproj|solutionrelative:camadanegocio\\ncategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEDA383-ADD7-439B-B862-3759CAA2E8B6}|CamadaDados\\CamadaDados.csproj|C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\camadadados\\dcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEDA383-ADD7-439B-B862-3759CAA2E8B6}|CamadaDados\\CamadaDados.csproj|solutionrelative:camadadados\\dcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282AF58-37CE-4188-A26C-67FE374735AF}|CamadaApresentacao\\CamadaApresentacao.csproj|C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\camadaapresentacao\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3282AF58-37CE-4188-A26C-67FE374735AF}|CamadaApresentacao\\CamadaApresentacao.csproj|solutionrelative:camadaapresentacao\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEDA383-ADD7-439B-B862-3759CAA2E8B6}|CamadaDados\\CamadaDados.csproj|C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\camadadados\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEDA383-ADD7-439B-B862-3759CAA2E8B6}|CamadaDados\\CamadaDados.csproj|solutionrelative:camadadados\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2320B550-F105-4F78-83BE-3E96F3797216}|SistemaComercio\\SistemaComercio.csproj|C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\sistemacomercio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2320B550-F105-4F78-83BE-3E96F3797216}|SistemaComercio\\SistemaComercio.csproj|solutionrelative:sistemacomercio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2320B550-F105-4F78-83BE-3E96F3797216}|SistemaComercio\\SistemaComercio.csproj|C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\sistemacomercio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2320B550-F105-4F78-83BE-3E96F3797216}|SistemaComercio\\SistemaComercio.csproj|solutionrelative:sistemacomercio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2320B550-F105-4F78-83BE-3E96F3797216}|SistemaComercio\\SistemaComercio.csproj|C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\sistemacomercio\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2320B550-F105-4F78-83BE-3E96F3797216}|SistemaComercio\\SistemaComercio.csproj|solutionrelative:sistemacomercio\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\SistemaComercio\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaComercio\\Program.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\SistemaComercio\\Program.cs",
+              "RelativeToolTip": "SistemaComercio\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:10:40.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\CamadaApresentacao\\FrmCategoria.cs",
+              "RelativeDocumentMoniker": "CamadaApresentacao\\FrmCategoria.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\CamadaApresentacao\\FrmCategoria.cs",
+              "RelativeToolTip": "CamadaApresentacao\\FrmCategoria.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAqwKkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:21:15.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCategoria.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\CamadaApresentacao\\FrmCategoria.cs",
+              "RelativeDocumentMoniker": "CamadaApresentacao\\FrmCategoria.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\CamadaApresentacao\\FrmCategoria.cs [Design]",
+              "RelativeToolTip": "CamadaApresentacao\\FrmCategoria.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:32:53.866Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\CamadaNegocio\\NCategoria.cs",
+              "RelativeDocumentMoniker": "CamadaNegocio\\NCategoria.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\CamadaNegocio\\NCategoria.cs",
+              "RelativeToolTip": "CamadaNegocio\\NCategoria.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:31:38.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\CamadaDados\\DCategoria.cs",
+              "RelativeDocumentMoniker": "CamadaDados\\DCategoria.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\CamadaDados\\DCategoria.cs",
+              "RelativeToolTip": "CamadaDados\\DCategoria.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAAANoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:16:26.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\SistemaComercio\\App.config",
+              "RelativeDocumentMoniker": "SistemaComercio\\App.config",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\SistemaComercio\\App.config",
+              "RelativeToolTip": "SistemaComercio\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-23T15:14:44.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\CamadaDados\\Conexao.cs",
+              "RelativeDocumentMoniker": "CamadaDados\\Conexao.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\CamadaDados\\Conexao.cs",
+              "RelativeToolTip": "CamadaDados\\Conexao.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:43:51.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\SistemaComercio\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaComercio\\Form1.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\SistemaComercio\\SistemaComercio\\Form1.cs [Design]",
+              "RelativeToolTip": "SistemaComercio\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:50:45.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

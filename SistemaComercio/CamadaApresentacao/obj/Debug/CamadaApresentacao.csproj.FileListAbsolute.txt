@@ -1,0 +1,13 @@
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.AssemblyReference.cache
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaAp.19BB61F4.Up2Date
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmCategoria.resources
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache

@@ -1,0 +1,9 @@
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaNegocio\bin\Debug\CamadaNegocio.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaNegocio\bin\Debug\CamadaNegocio.pdb
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaNegocio\bin\Debug\CamadaDados.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaNegocio\bin\Debug\CamadaDados.pdb
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.AssemblyReference.cache
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaNegocio\obj\Debug\CamadaNe.57C25EE1.Up2Date
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaNegocio\obj\Debug\CamadaNegocio.dll
+C:\Users\LEONARDO\source\repos\SistemaComercio\CamadaNegocio\obj\Debug\CamadaNegocio.pdb
